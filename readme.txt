@@ -1,4 +1,4 @@
-HW5 milestone 3 README
+This Java program allows user to access movie related data files, and run searches on relation between users and movies in the database.
 
 Team member: Ao Sun, Yi Wang
 
